@@ -1,2 +1,5 @@
 *.class
 *.log
+# User-specific stuff:
+.idea
+target
